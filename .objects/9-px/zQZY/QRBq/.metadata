@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiPath ReFramwork Full Course  By Rake",
+  "Type": "Screen",
+  "Id": "QRBq6GP4W0agDcOHRips_Q",
+  "Reference": "wWotUR6TmU6F8NuYVWoBcw/QRBq6GP4W0agDcOHRips_Q",
+  "ParentRef": "wWotUR6TmU6F8NuYVWoBcw/zQZYQPqGz0ytAKNffUegVw",
+  "Created": "2025-05-24T15:58:34.4024086Z",
+  "Updated": "2025-05-24T15:58:34.4024086Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

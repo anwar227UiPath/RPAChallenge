@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yko_ULOoG06q9k0DqYykqQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="b64f39dc-5b09-40f0-9239-5651aa360413" CvTextArea="1026, 551, 63, 15" CvTextArgument="Address" CvType="Text" DesignTimeRectangle="1029, 548, 61, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Address' tag='LABEL' /&gt;" Guid="4bf7e727-2d2d-4306-9fab-ba69e5c11cf0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b64f39dc-5b09-40f0-9239-5651aa360413" CvElementArea="1024, 577, 389, 54" CvType="InputBox" DesignTimeRectangle="1029, 572, 378, 57" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='JWn8U' tag='INPUT' /&gt;" Guid="b3777bbf-779e-4735-82c2-c0047863816a" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="87f8d891d6a669d53ba670cbda43e59a.png" xmlns="">08Sq9T5vBW0q4Mm-U-a5rRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

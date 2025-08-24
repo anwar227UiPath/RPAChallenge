@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BYFsh8aM-UKA-kcyT7iOTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/watch" DesignTimeRectangle="583, 245, 644, 30" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="65355eb0-fd87-48b3-935d-b776bc4f54cc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath ReFramwork Full Course | By Rakesh - YouTube' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="13a90a2c1ca9c66624e97be8d150b204.png" xmlns="">0aw_Le7-hOk6dIxnst874dw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

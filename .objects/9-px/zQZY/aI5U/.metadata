@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Understanding the anatomy and proper c",
+  "Type": "Screen",
+  "Id": "aI5UujhYXkGbEYj3efkKCw",
+  "Reference": "wWotUR6TmU6F8NuYVWoBcw/aI5UujhYXkGbEYj3efkKCw",
+  "ParentRef": "wWotUR6TmU6F8NuYVWoBcw/zQZYQPqGz0ytAKNffUegVw",
+  "Created": "2025-06-30T08:04:24.9633995Z",
+  "Updated": "2025-06-30T08:04:24.9633995Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tables are a great visu…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yH4KfZ8O7EmyyDRyFm6L1A",
+  "Reference": "wWotUR6TmU6F8NuYVWoBcw/yH4KfZ8O7EmyyDRyFm6L1A",
+  "ParentRef": "wWotUR6TmU6F8NuYVWoBcw/aI5UujhYXkGbEYj3efkKCw",
+  "Created": "2025-06-30T08:04:41.7136905Z",
+  "Updated": "2025-06-30T08:04:41.7136905Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TR5vzL7vJEatFjDq5WJ_AA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="decisionfoundry.com/misc/articles/understanding-the-anatomy-and-proper-construction-of-tables" DesignTimeRectangle="383, 686, 1179, 141" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='' isleaf='1' parentid='content' tag='P' matching:class='fuzzy' fuzzylevel:class='0.0' matching:isleaf='fuzzy' fuzzylevel:isleaf='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;" Guid="e6af621a-f34b-4a18-b446-220cd9871b5a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Understanding the anatomy and proper construction of tables' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="383, 76, 838, 573" ElementType="Icon" FullSelectorArgument="&lt;webctrl aaname='Guidelines' parentid='content' src='/wp-content/uploads/2023/06/group-table.png' tag='IMG' /&gt;" Guid="137087a5-f6f7-4bcc-83ed-43865b107540" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fcf839bbdc0085c40a1c0b52a167b83d.png" xmlns="">0MFxVwyuY1UmRKqPvQ8GZqQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
